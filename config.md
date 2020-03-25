@@ -1,6 +1,6 @@
 **Primeiros passos**
 *backend*
-- mongodb+srv://odawi:davelil123@omnistack-guie6.mongodb.net/admin
+- mongodb+srv://<user>:<pwd>@omnistack-guie6.mongodb.net/admin
 - npm install express
 - criar o scripts: dev -> nodemon src/server.js
 - npm run dev
